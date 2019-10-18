@@ -24,4 +24,4 @@ Create an image gallery where the main image changes by the click on a thumbnail
 
 **Result**
 
-- [DEMO LINK](https://vitya63.github.io/js_tree-from-object/);
+- [DEMO LINK](https://vitya63.github.io/js_task-gallery-DOM/)
